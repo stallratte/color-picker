@@ -13,7 +13,7 @@ Select the color of a pixel on your screen by clicking 'Pick color'. Position yo
 python -m venv venv
 ``
 
-## Windows
+## Activate the virtual environment (on Windows)
 
 ``
 .\venv\Scripts\activate
