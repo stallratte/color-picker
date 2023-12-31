@@ -1,6 +1,6 @@
 # Pick a color
 
-Select the color of a pixel on your screen by clicking 'Pick color'. Position your cursor over the pixel and click the left mouse button. 
+Select the color of a pixel on your screen by clicking 'Pick color'. Position your cursor over the pixel and click the a mouse button. 
 
 Automatically copies the selected color to clipboard.
 
