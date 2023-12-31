@@ -5,7 +5,6 @@ from pynput import mouse
 import tkinter as tk
 from threading import Thread
 from queue import Queue
-from ttkthemes import ThemedStyle
 from tkinter import ttk
 import pyperclip
 
@@ -14,9 +13,6 @@ class ColorPickerGUI(tk.Tk):
 
     def __init__(self):
         super().__init__()
-
-        style = ThemedStyle(self)
-        style.set_theme("clam")
 
         self.resizable(False, False)
 
